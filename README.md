@@ -24,7 +24,7 @@ The lab was built using Proxmox VE for virtualization, with EVE-NG for network e
 
 ## Demo: SD-WAN Failover
 
-[▶️ Watch the demo video (MP4)](sdwan-failover-demo.mp4)
+[![Watch the demo](https://img.youtube.com/vi/kWQ1OdPQ0e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=kWQ1OdPQ0e4)
 
 Demonstration of FortiGate SD-WAN SLA-based failover between the two ISP links, tested under simulated WAN degradation using `tc netem`.
 
