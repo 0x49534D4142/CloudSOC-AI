@@ -1,5 +1,0 @@
-## Demo: SD-WAN Failover
-
-[![Watch the demo](https://img.youtube.com/vi/kWQ1OdPQ0e4/maxresdefault.jpg)](https://www.youtube.com/watch?v=kWQ1OdPQ0e4)
-
-Demonstration of FortiGate SD-WAN SLA-based failover between the two ISP links, tested under simulated WAN degradation using `tc netem`.
